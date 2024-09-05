@@ -5,12 +5,10 @@ function pesquisar() {
   let resultados = "";
 
   for (let dado of dados) {
-    nomeSeparado = dado.titulo.split(" ");
+    nomeSeparado = dado.titulo.toLowerCase().split(" ");
+    console.log(nomeSeparado);
 
-    if (
-      nomeSeparado[0].toLowerCase() === nomeAtleta.toLowerCase() ||
-      nomeSeparado[1].toLowerCase() === nomeAtleta.toLowerCase()
-    ) {
+    if (nomeSeparado.includes(nomeAtleta)) {
       resultados += `
         <div class="item-resultado">
             <h2>
@@ -20,6 +18,7 @@ function pesquisar() {
             <a href=${dado.link} target="_blank">Mais informações</a>
         </div>
         `;
+      break;
     }
   }
 
@@ -37,7 +36,6 @@ function pesquisar() {
 }
 
 const input = document.getElementById("input");
-console.log(input);
 
 input.addEventListener("keyup", function (event) {
   if (event.key === "Enter") {
