@@ -5,6 +5,10 @@
 body {
   font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
   background-color: #dddddd; /* Cor de fundo da página */
+  background-image: url(img/kanto_route_1_pokemon_origins_by_nepheskhaim_dgxt9pf-414w-2x.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   display: flex; /* Usa Flexbox para layout */
   flex-direction: column; /* Alinha os itens na vertical */
   align-items: center; /* Centraliza os itens horizontalmente */
@@ -14,12 +18,24 @@ body {
   padding: 0; /* Remove o padding padrão */
 }
 
+header {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
 /* Estiliza os títulos h1 */
 h1 {
   font-size: 2.5rem; /* Tamanho da fonte */
-  color: #222831; /* Cor do texto */
+  color: #dde1e7; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Estiliza as seções da página */
@@ -67,6 +83,7 @@ section button:hover {
   margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
   padding: 1rem; /* Espaçamento interno */
   border-radius: 0.6rem; /* Borda arredondada */
+  align-self: center;
 }
 
 /* Estiliza cada item de resultado */
@@ -76,6 +93,20 @@ section button:hover {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  display: flex;
+  flex-direction: row;
+}
+
+.item-resultado-imagem {
+  align-self: center;
+}
+
+.item-resultado-imagem img {
+  width: 5em;
+}
+
+.item-resultado-dados {
+  padding: 1em;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
