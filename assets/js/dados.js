@@ -241,6 +241,17 @@ let dadosPokemon = [
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif",
   },
+  {
+    id: "022",
+    nome: "Fearow",
+    tipos: ["Normal", "Voador"],
+    descricao:
+      "A evolução de Spearow. Ele pode voar grandes distâncias e é conhecido por sua habilidade de voar a altas altitudes.",
+    link: "https://www.pokemon.com/br/pokedex/Fearow",
+    tags: "pássaro pokemon",
+    image:
+      "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif",
+  },
 ];
 
 let dadosDigimon = [
