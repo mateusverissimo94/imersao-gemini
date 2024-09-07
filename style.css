@@ -5,6 +5,10 @@
 body {
   font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
   background-color: #dddddd; /* Cor de fundo da página */
+  background-image: url(assets/img/kanto_route_1_pokemon_origins_by_nepheskhaim_dgxt9pf-414w-2x.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   display: flex; /* Usa Flexbox para layout */
   flex-direction: column; /* Alinha os itens na vertical */
   align-items: center; /* Centraliza os itens horizontalmente */
@@ -14,12 +18,32 @@ body {
   padding: 0; /* Remove o padding padrão */
 }
 
+body.tema-digimon {
+  background-image: url(assets/img/digimon-background.jpg);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
 /* Estiliza os títulos h1 */
 h1 {
   font-size: 2.5rem; /* Tamanho da fonte */
-  color: #222831; /* Cor do texto */
+  color: #dde1e7; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
+}
+
+h1.tema-digimon {
+  color: #000;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Estiliza as seções da página */
@@ -40,6 +64,17 @@ section input {
   color: #45474b; /* Cor do texto */
   font-size: 1rem; /* Tamanho da fonte */
   box-sizing: border-box; /* Inclui padding e border na largura total */
+}
+
+section input.tema-digimon {
+  background: #ededed;
+  box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.botoes {
+  width: 30vh;
+  display: flex;
+  justify-content: space-between;
 }
 
 /* Estiliza os botões dentro das seções */
@@ -67,6 +102,7 @@ section button:hover {
   margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
   padding: 1rem; /* Espaçamento interno */
   border-radius: 0.6rem; /* Borda arredondada */
+  align-self: center;
 }
 
 /* Estiliza cada item de resultado */
@@ -76,12 +112,48 @@ section button:hover {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}
+
+.item-resultado-imagem {
+  align-self: center;
+  margin-right: 1em;
+}
+
+.item-resultado-imagem img {
+  width: 5em;
+}
+
+.item-resultado-dados {
+  padding: 1em;
+}
+
+.paragrafo-tipos {
+  margin: 0;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cabecalho p {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0;
+  color: #30475e;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
   font-size: 1.5rem; /* Tamanho da fonte */
   color: #222831; /* Cor do texto */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* Estiliza os links dentro dos itens de resultado */
@@ -111,6 +183,78 @@ footer {
   position: absolute; /* Posiciona o rodapé */
   bottom: 0; /* Alinha ao fundo da página */
   font-size: 1rem; /* Tamanho da fonte */
+}
+
+.normal {
+  color: #a6a877;
+}
+
+.grama {
+  color: #77c850;
+}
+
+.fogo {
+  color: #ee7f30;
+}
+
+.agua {
+  color: #678fee;
+}
+
+.eletrico {
+  color: #f7cf2e;
+}
+
+.gelo {
+  color: #98d5d7;
+}
+
+.terrestre {
+  color: #dfbf69;
+}
+
+.voador {
+  color: #a98ff0;
+}
+
+.venenoso {
+  color: #a040a0;
+}
+
+.lutador {
+  color: #bf3029;
+}
+
+.psiquico {
+  color: #f65687;
+}
+
+.noturno {
+  color: #725847;
+}
+
+.pedra {
+  color: #b8a137;
+}
+
+.inseto {
+  color: #a8b720;
+}
+
+.fantasma {
+  color: #6e5896;
+}
+
+.aco {
+  color: #b9b7cf;
+}
+
+.dragão {
+  color: #6f38f6;
+}
+
+.fada {
+  color: #f9aec7;
 }
 
 @media (max-width: 768px) {
