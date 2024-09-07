@@ -250,9 +250,86 @@ let dadosDigimon = [
     nivel: "Rookie",
     atributo: "Vaccine",
     descricao:
-      "Um Digimon do tipo Reptil, estágio Criança. É o parceiro de Tai (Taichi Yagami) e pode evoluir para formas poderosas. Agumon é corajoso, leal e possui um ataque de fogo chamado 'Chama Bebê'. Sua relação com Tai é baseada em confiança e liderança",
+      "Um Digimon do tipo Reptil, estágio Criança. É o parceiro de Tai (Taichi Yagami) e pode evoluir para formas poderosas. Agumon é corajoso, leal e possui um ataque de fogo chamado 'Chama Bebê'. Sua relação com Tai é baseada em confiança e liderança.",
     link: "https://digitalmonster.fandom.com/pt/wiki/Agumon",
-    tags: "dinossauro tai digiescolhido digimon rookie vaccine",
+    tags: "dinossauro tai digiescolhido digimon",
     image: "https://digimon.shadowsmith.com/img/agumon.jpg",
+  },
+  {
+    id: "002",
+    nome: "Gabumon",
+    nivel: "Rookie",
+    atributo: "Data",
+    descricao:
+      "Apesar de sua pelagem de pele, este é um verdadeiro Digimon réptil. Ele tem uma personalidade tímida e envergonhada e sempre faz pelagens de dados sobrantes do Garurumon para usar. Usar a pele de um Digimon temível como o Garurumon serve para protegê-lo. Sua personalidade dá uma guinada de 180 quando veste essa pele. Seu movimento especial é Blue Blaster.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Gabumon",
+    tags: "lobo casaco ishida digiescolhido digimon",
+    image: "https://digimon.shadowsmith.com/img/gabumon.jpg",
+  },
+  {
+    id: "003",
+    nome: "Biyomon",
+    nivel: "Rookie",
+    atributo: "Vaccine",
+    descricao:
+      "Um Digimon bebê pássaro cujas asas se transformaram em braços. Ele pode agarrar objetos com suas asas, mas não consegue voar muito bem. Ele vive no chão, mas quando o perigo se aproxima, ele voa para escapar. Mesmo assim, ele pode voar quase tão bem quanto o Patamon, então ele vê o Patamon como um rival. Ele sonha em se tornar um Birdramon para voar livremente nos céus e não quer se tornar um Kokatorimon sem vôo. Ele tem uma personalidade curiosa e adora bicar a cabeça do Tanemon. Seu movimento especial Spiral Twister dispara chamas ilusórias.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Biyomon",
+    tags: "pássaro sora digiescolhido digimom Piyomon",
+    image: "https://digimon.shadowsmith.com/img/biyomon.jpg",
+  },
+  {
+    id: "004",
+    nome: "Tentomon",
+    nivel: "Rookie",
+    atributo: "Vaccine",
+    descricao:
+      "Um Digimon insetoide com uma carapaça dura, mas de baixa agressividade. Ele tem uma garra dura em cada antebraço e quatro em cada um dos membros médios e traseiros. Seus membros médios, em particular, podem manipular objetos habilmente, como mãos humanas. Outros Digimon insetoides mais evoluídos se preocupam apenas com combates, mas este parece estar em sintonia com a natureza, podendo ser visto alegremente cheirando flores ou cochilando à sombra de uma árvore. No entanto, ele possui um golpe especial, que lança eletricidade estática amplificada por suas asas, chamado Super Shocker.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Tentomon",
+    tags: "inseto izumi digiescolhido digimom",
+    image: "https://digimon.shadowsmith.com/img/tentomon.jpg",
+  },
+  {
+    id: "005",
+    nome: "Palmon",
+    nivel: "Rookie",
+    atributo: "Data",
+    descricao:
+      "Um Digimon de vegetação com uma flor tropical na cabeça. Ele evoluiu de Tanemon como um réptil, mas sua aparência e características o classificam como um tipo de vegetação. Durante o dia, ele espalha sua flor e seus braços semelhantes a folhas para realizar a fotossíntese. Enterra seus pés semelhantes a raízes no solo para absorver nutrientes, mas também é capaz de andar. Sua flor emite um cheiro doce quando está feliz, e um fedor forte o suficiente para repelir grandes Digimon quando está zangado ou em perigo. Seu movimento especial, Poison Ivy, envolve o inimigo em hera venenosa, causando paralisia.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Palmon",
+    tags: "planta mimi digiescolhido digimom",
+    image: "https://digimon.shadowsmith.com/img/palmon.jpg",
+  },
+  {
+    id: "006",
+    nome: "Gomamon",
+    nivel: "Rookie",
+    atributo: "Vaccine",
+    descricao:
+      "Um Digimon besta marinha coberto por uma pelagem isolante, capaz de se mover em terra. Seu pelo curto e branco cresce à medida que amadurece e se torna marrom quando o Digimon está totalmente desenvolvido. Ele é travesso e adora se intrometer em tudo que vê. O cabelo vermelho que cresce em sua cabeça e nas costas reage às suas emoções, ficando eriçado quando está com raiva. As garras de Gomamon são fortes o suficiente para cortar facilmente gelo espesso, então é melhor não subestimá-lo. Seu movimento especial, Marching Fishes, comanda um cardume de pequenos peixes.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Gomamon",
+    tags: "foca jou joe digiescolhido digimom",
+    image: "https://digimon.shadowsmith.com/img/gomamon.jpg",
+  },
+  {
+    id: "007",
+    nome: "Patamon",
+    nivel: "Rookie",
+    atributo: "Data",
+    descricao:
+      "Um Digimon mamífero caracterizado por suas grandes orelhas, que ele usa como asas para voar, embora não consiga ir mais rápido que 1 km/h, sendo definitivamente mais rápido caminhar. As pessoas adoram como ele parece fofo quando tenta tão arduamente voar (não que isso o incomode). Ele é muito obediente e faz o que lhe mandam. Patamon também herdou a genética de antigos Digimon capazes de liberar um poder sagrado oculto sem precisar usar um Anel Sagrado. Seu movimento especial, Boom Bubble, faz com que ele inspire ar e o dispare como uma bala de ar.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Patamon",
+    tags: "anjo voador tk  digiescolhido digimom",
+    image: "https://digimon.shadowsmith.com/img/patamon.jpg",
+  },
+  {
+    id: "008",
+    nome: "Gatomon",
+    nivel: "Champion",
+    atributo: "Vaccine",
+    descricao:
+      "Travesso e cheio de curiosidade, seu corpo é pequeno, e anteriormente era um Digimon do tipo sagrado. Seu verdadeiro poder não corresponde a essa aparência. O Anel Sagrado em sua cauda é a prova de sua natureza sagrada, mas ele perde poder e não pode demonstrar sua força original se este for removido. Para se proteger, ele usa longas garras copiadas dos dados de SaberLeomon. Seu movimento especial, Lightning Paw, ataca os inimigos com suas garras longas.",
+    link: "https://digitalmonster.fandom.com/pt/wiki/Gatomon",
+    tags: "tailmon hikari digiescolhido digimom",
+    image: "https://digimon.shadowsmith.com/img/gatomon.jpg",
   },
 ];

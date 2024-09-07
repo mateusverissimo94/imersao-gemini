@@ -173,6 +173,7 @@ function mudarTema() {
   const titulo = document.querySelector("h1");
   const input = document.querySelector("input");
   const botaoPesquisa = document.querySelector(".botao-pesquisa");
+  let section = document.getElementById("resultados-pesquisa");
 
   const ativarScriptDigimon = body.classList.contains("tema-digimon");
 
@@ -186,11 +187,13 @@ function mudarTema() {
     input.placeholder =
       "Digite o número, nome, tipo ou no que o pokémon foi inspirado";
     titulo.textContent = "Procure por seu Pokémon favorito";
+    section.innerHTML = "";
   } else {
     botaoPesquisa.setAttribute("onClick", "pesquisarDigimon()");
     botaoAlterarTema.textContent = "Pokémon";
     input.placeholder = "Digite o nome dele ou o Digiescolhido ligado a ele";
     titulo.textContent = "Procure por seu Digimon favorito";
+    section.innerHTML = "";
   }
 }
 
