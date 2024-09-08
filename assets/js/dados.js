@@ -237,7 +237,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Spearow. Ele pode voar grandes distâncias e é conhecido por sua habilidade de voar a altas altitudes.",
     link: "https://www.pokemon.com/br/pokedex/Fearow",
-    tags: "pássaro pokemon",
+    tags: "pássaro pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif",
   },
@@ -259,7 +259,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Ekans. Seus padrões no corpo assustam seus inimigos e seu ataque venenoso é letal.",
     link: "https://www.pokemon.com/br/pokedex/Arbok",
-    tags: "cobra serpente equipe rocket jesse pokemon",
+    tags: "cobra serpente equipe rocket jesse pokemon agatha elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif",
   },
@@ -270,7 +270,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Elétrico. Ele armazena eletricidade nas bochechas e libera em choques poderosos.",
     link: "https://www.pokemon.com/br/pokedex/Pikachu",
-    tags: "rato ash mascote pokemon",
+    tags: "rato ash mascote pokemon tenente surge vermilion",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
   },
@@ -281,7 +281,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Pikachu. Sua eletricidade é ainda mais forte e pode ser letal quando descarregada.",
     link: "https://www.pokemon.com/br/pokedex/Raichu",
-    tags: "rato pokemon tenente suger ",
+    tags: "rato pokemon tenente surge vermilion",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif",
   },
@@ -336,7 +336,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Nidoran♀. Seu corpo robusto oferece uma defesa formidável e ela usa seu poder para proteger a ninhada.",
     link: "https://www.pokemon.com/br/pokedex/Nidoqueen",
-    tags: "chifre rainha gary pokemon giovanni",
+    tags: "chifre rainha gary pokemon giovanni viridian",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
   },
@@ -369,7 +369,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Nidoran♂. Com um corpo imponente e chifres venenosos, Nidoking é uma força devastadora.",
     link: "https://www.pokemon.com/br/pokedex/Nidoqueen",
-    tags: "chifre rei pokemon gary giovanni",
+    tags: "chifre rei pokemon gary giovanni viridian",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
   },
@@ -402,7 +402,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Fogo. Nasce com uma cauda, mas essa se divide à medida que cresce. Solta pequenas labaredas quando fica animado.",
     link: "https://www.pokemon.com/br/pokedex/Vulpix",
-    tags: "raposa nove caudas kyuubi pokemon",
+    tags: "raposa nove caudas kyuubi pokemon brock",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif",
   },
@@ -446,7 +446,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Venenoso/Voador. Vive em cavernas escuras e usa ondas ultrassônicas para navegar e encontrar presas.",
     link: "https://www.pokemon.com/br/pokedex/Zubat",
-    tags: "morcego brook pokemon",
+    tags: "morcego brock pokemon",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif",
   },
@@ -457,7 +457,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Zubat. Suas presas afiadas sugam o sangue de suas vítimas, drenando energia rapidamente.",
     link: "https://www.pokemon.com/br/pokedex/Golbat",
-    tags: "morcego brook pokemon",
+    tags: "morcego brock pokemon agatha elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif",
   },
@@ -490,7 +490,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Oddish. Sua grande flor libera pólen tóxico que pode causar alergias severas.",
     link: "https://www.pokemon.com/br/pokedex/Vileplume",
-    tags: "flor pokemon",
+    tags: "flor pokemon erika celadon",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif",
   },
@@ -534,7 +534,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Venonat. Suas asas liberam escamas venenosas que podem paralisar adversários.",
     link: "https://www.pokemon.com/br/pokedex/Venomoth",
-    tags: "mariposa pokemon",
+    tags: "mariposa pokemon sabrina saffron",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif",
   },
@@ -556,7 +556,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Diglett. Consiste em três Diglett que trabalham juntos para cavar túneis extensos.",
     link: "https://www.pokemon.com/br/pokedex/Dugtrio",
-    tags: "cabeças minhoca pokemon",
+    tags: "cabeças minhoca pokemon giovanni viridian",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/51.gif",
   },
@@ -622,7 +622,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Mankey. Sua raiva é tão intensa que dificilmente se acalma, tornando-o um adversário perigoso.",
     link: "https://www.pokemon.com/br/pokedex/Primeape",
-    tags: "macaco raivoso boxeador pokemon",
+    tags: "macaco raivoso boxeador pokemon ash",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif",
   },
@@ -633,7 +633,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Fogo. Leal e corajoso, protege seu treinador e território com determinação.",
     link: "https://www.pokemon.com/br/pokedex/Growlithe",
-    tags: "cachorro tigre pokemon",
+    tags: "cachorro tigre pokemon policial jenny blaine seafoam",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif",
   },
@@ -644,7 +644,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Growlithe. Conhecido por sua velocidade e majestade, é reverenciado como símbolo de bravura.",
     link: "https://www.pokemon.com/br/pokedex/Arcanine",
-    tags: "cachorro tigre pedra pokemon",
+    tags: "cachorro tigre pedra pokemon gary policial jenny blaine seafoam",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif",
   },
@@ -655,7 +655,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água. Sua cauda o ajuda a nadar, e a espiral em sua barriga é na verdade seus órgãos internos visíveis.",
     link: "https://www.pokemon.com/br/pokedex/Poliwag",
-    tags: "girino pokemon",
+    tags: "girino pokemon misty",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif",
   },
@@ -666,7 +666,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Poliwag. Pode andar em terra e água, usando suas mãos para lançar ataques poderosos.",
     link: "https://www.pokemon.com/br/pokedex/Poliwhirl",
-    tags: "sapo pokemon",
+    tags: "sapo pokemon misty",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif",
   },
@@ -699,7 +699,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Abra. Seus poderes psíquicos aumentaram, e ele usa uma colher para canalizar sua energia.",
     link: "https://www.pokemon.com/br/pokedex/Kadabra",
-    tags: "esper pokemon",
+    tags: "esper pokemon sabrina saffron",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif",
   },
@@ -710,7 +710,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Abra. Seu intelecto é extraordinário, e seus poderes psíquicos são incomparáveis.",
     link: "https://www.pokemon.com/br/pokedex/Alakazam",
-    tags: "esper sabrina pokemon",
+    tags: "esper sabrina pokemon gary sabrina saffron",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif",
   },
@@ -743,7 +743,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Machop. Com quatro braços, pode executar diversos movimentos simultaneamente.",
     link: "https://www.pokemon.com/br/pokedex/Machamp",
-    tags: "dinossauro wrestler cinturão pokemon",
+    tags: "dinossauro wrestler cinturão pokemon bruno elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif",
   },
@@ -776,7 +776,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Bellsprout. Atrai presas com seu aroma doce e as dissolve com enzimas poderosas.",
     link: "https://www.pokemon.com/br/pokedex/Victreebel",
-    tags: "carnivora james equipe rocket pokemon",
+    tags: "carnivora james equipe rocket pokemon erika celadon",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif",
   },
@@ -809,7 +809,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Pedra/Terra. Parece uma rocha comum, mas tem braços fortes e é encontrado em montanhas.",
     link: "https://www.pokemon.com/br/pokedex/Geodude",
-    tags: "flutuando voando pokemon",
+    tags: "flutuando voando pokemon brock pewter",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif",
   },
@@ -831,7 +831,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Geodude. Seu corpo é duro como diamante, sobrevivendo a erupções vulcânicas.",
     link: "https://www.pokemon.com/br/pokedex/Golem",
-    tags: "tartaruga pokemon",
+    tags: "tartaruga pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif",
   },
@@ -842,7 +842,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Fogo. Suas crinas são feitas de fogo, e aprende a correr rapidamente após nascer.",
     link: "https://www.pokemon.com/br/pokedex/Ponyta",
-    tags: "cavalo pokemon",
+    tags: "cavalo pokemon blaine seafoam",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif",
   },
@@ -853,7 +853,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Ponyta. Corre tão rápido que parece uma estrela cadente, e suas chamas intensificam-se com a velocidade.",
     link: "https://www.pokemon.com/br/pokedex/Rapidash",
-    tags: "cavalo pokemon",
+    tags: "cavalo pokemon blaine seafoam",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif",
   },
@@ -875,7 +875,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Slowpoke. Evolui quando um Shellder morde sua cauda, tornando-o mais consciente e poderoso.",
     link: "https://www.pokemon.com/br/pokedex/Slowbro",
-    tags: "hipopotamo pokemon",
+    tags: "hipopotamo pokemon lorelei elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif",
   },
@@ -919,7 +919,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Normal/Voador. Tem duas cabeças que pensam independentemente, coordenando para correr em alta velocidade.",
     link: "https://www.pokemon.com/br/pokedex/Doduo",
-    tags: "kiwi pokemon",
+    tags: "kiwi pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif",
   },
@@ -930,7 +930,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Doduo. Com três cabeças, cada uma representa uma emoção diferente, controlando seu corpo poderoso.",
     link: "https://www.pokemon.com/br/pokedex/Dodrio",
-    tags: "kiwi pokemon",
+    tags: "kiwi pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif",
   },
@@ -952,7 +952,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Seel. Seu corpo branco como neve permite camuflar-se em ambientes árticos, sendo um nadador habilidoso.",
     link: "https://www.pokemon.com/br/pokedex/Dewgong",
-    tags: "foca pokemon",
+    tags: "foca pokemon lorelei elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif",
   },
@@ -974,7 +974,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Grimer. Seu corpo é ainda mais tóxico, e o cheiro que exala pode ser sentido a quilômetros.",
     link: "https://www.pokemon.com/br/pokedex/Muk",
-    tags: "lixo gosma fedorento pokemon",
+    tags: "lixo gosma fedorento pokemon ash koga fuchsia",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif",
   },
@@ -996,7 +996,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Shellder. Sua concha é quase impenetrável, atacando com espinhos afiados.",
     link: "https://www.pokemon.com/br/pokedex/Cloyster",
-    tags: "ostra pokemon",
+    tags: "ostra pokemon lorelei elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif",
   },
@@ -1018,7 +1018,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Gastly. Com mãos destacadas do corpo, assombra vítimas e causa sensações de frio intenso.",
     link: "https://www.pokemon.com/br/pokedex/Haunter",
-    tags: "assombração alma pokemon",
+    tags: "assombração alma pokemon ash agatha elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif",
   },
@@ -1029,7 +1029,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Gastly. Adora pregar peças assustadoras e pode se esconder na sombra de alguém.",
     link: "https://www.pokemon.com/br/pokedex/Gengar",
-    tags: "assombração alma pokemon",
+    tags: "assombração alma pokemon agatha elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif",
   },
@@ -1040,7 +1040,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Pedra/Terra. Composto por rochas ligadas, cava através do solo e montanhas, moldando a terra.",
     link: "https://www.pokemon.com/br/pokedex/Onix",
-    tags: "serpente cobra brook pokemon",
+    tags: "serpente cobra brock pokemon pewter bruno elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif",
   },
@@ -1073,7 +1073,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água. Usa garras poderosas para lutar e se defender, vivendo em praias e rios.",
     link: "https://www.pokemon.com/br/pokedex/Krabby",
-    tags: "caranguejo pokemon",
+    tags: "caranguejo pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif",
   },
@@ -1084,7 +1084,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Krabby. Sua garra maior é incrivelmente forte, capaz de esmagar conchas duras.",
     link: "https://www.pokemon.com/br/pokedex/Kingler",
-    tags: "caranguejo pokemon",
+    tags: "caranguejo pokemon ash",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif",
   },
@@ -1095,7 +1095,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Elétrico. Parece uma Poké Bola e muitas vezes explode quando agitado ou ameaçado.",
     link: "https://www.pokemon.com/br/pokedex/Voltorb",
-    tags: "pokebola pokemon",
+    tags: "pokebola pokemon tenente surge vermilion",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif",
   },
@@ -1161,7 +1161,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Lutador. Especialista em chutes, suas pernas podem se estender para alcançar oponentes distantes.",
     link: "https://www.pokemon.com/br/pokedex/Hitmonlee",
-    tags: "karatê karateca pokemon",
+    tags: "karatê karateca pokemon bruno elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif",
   },
@@ -1172,7 +1172,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Lutador. Mestre em socos, suas mãos se movem mais rápido que o olho pode ver.",
     link: "https://www.pokemon.com/br/pokedex/Hitmonchan",
-    tags: "boxeador boxe pokemon",
+    tags: "boxeador boxe pokemon bruno elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif",
   },
@@ -1194,7 +1194,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Venenoso. Flutua no ar, exalando gases tóxicos inflamáveis.",
     link: "https://www.pokemon.com/br/pokedex/Koffing",
-    tags: "meteoro poluição james equipe rocket pokemon",
+    tags: "meteoro poluição james equipe rocket pokemon koga fuchsia",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif",
   },
@@ -1205,7 +1205,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Koffing. Com múltiplos corpos, produz gases ainda mais tóxicos e poluentes.",
     link: "https://www.pokemon.com/br/pokedex/Weezing",
-    tags: "meteoro poluição james equipe rocket pokemon",
+    tags: "meteoro poluição james equipe rocket pokemon koga fuchsia",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif",
   },
@@ -1216,7 +1216,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Terra/Pedra. Corpo duro como pedra, avança sem pensar em direção aos oponentes.",
     link: "https://www.pokemon.com/br/pokedex/Rhyhorn",
-    tags: "rinocerante pokemon",
+    tags: "rinocerante pokemon giovanni viridian",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
   },
@@ -1227,7 +1227,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Rhyhorn. Desenvolveu postura bípede e inteligência maior, tornando-se mais estratégico.",
     link: "https://www.pokemon.com/br/pokedex/Rhydon",
-    tags: "kaiju pokemon",
+    tags: "kaiju pokemon giovanni viridian",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
   },
@@ -1249,7 +1249,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Planta. Corpo envolto em vinhas azuis que crescem continuamente.",
     link: "https://www.pokemon.com/br/pokedex/Tangela",
-    tags: "cipó tentuculos pokemon",
+    tags: "cipó tentuculos pokemon erika celadon",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif",
   },
@@ -1271,7 +1271,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água. Nada para trás usando a barbatana dorsal, expele tinta para escapar de predadores.",
     link: "https://www.pokemon.com/br/pokedex/Horsea",
-    tags: "cavalo marinho pokemon",
+    tags: "cavalo marinho pokemon misty",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif",
   },
@@ -1293,7 +1293,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água. Conhecido como a 'Rainha dos Mares', suas nadadeiras elegantes escondem chifres afiados.",
     link: "https://www.pokemon.com/br/pokedex/Goldeen",
-    tags: "peixe dourado pokemon",
+    tags: "peixe dourado pokemon misty",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif",
   },
@@ -1315,7 +1315,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água. Pode regenerar membros perdidos e brilha à noite com seu núcleo central.",
     link: "https://www.pokemon.com/br/pokedex/Staryu",
-    tags: "estrela mar pokemon",
+    tags: "estrela mar pokemon misty cerulean",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif",
   },
@@ -1326,7 +1326,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Staryu. Seu núcleo emite energia misteriosa, frequentemente associado a eventos cósmicos.",
     link: "https://www.pokemon.com/br/pokedex/Starmie",
-    tags: "estrela mar pokemon",
+    tags: "estrela mar pokemon misty cerulean",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif",
   },
@@ -1337,7 +1337,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Psíquico/Fada. Cria barreiras invisíveis usando pantomima, altamente expressivo.",
     link: "https://www.pokemon.com/br/pokedex/mr-mime",
-    tags: "mímico mãe ash pokemon",
+    tags: "mímico mãe ash pokemon sabrina saffron",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif",
   },
@@ -1359,7 +1359,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Gelo/Psíquico. Comunica-se com linguagem misteriosa, dançando para expressar emoções.",
     link: "https://www.pokemon.com/br/pokedex/Jynx",
-    tags: "papai noel pokemon",
+    tags: "papai noel pokemon lorelei elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif",
   },
@@ -1370,7 +1370,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Elétrico. Atrai raios durante tempestades, armazenando eletricidade no corpo.",
     link: "https://www.pokemon.com/br/pokedex/Electabuzz",
-    tags: "felino pokemon",
+    tags: "felino pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif",
   },
@@ -1381,7 +1381,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Fogo. Vive perto de vulcões, exalando calor intenso.",
     link: "https://www.pokemon.com/br/pokedex/Magmar",
-    tags: "pokemon",
+    tags: "pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif",
   },
@@ -1392,7 +1392,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Inseto. Usa pinças poderosas para esmagar inimigos, extremamente forte.",
     link: "https://www.pokemon.com/br/pokedex/Pinsir",
-    tags: "pokemon",
+    tags: "pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif",
   },
@@ -1403,7 +1403,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Normal. Selvagem e indomável, ataca em alta velocidade com chifres afiados.",
     link: "https://www.pokemon.com/br/pokedex/Tauros",
-    tags: "touro boi pokemon",
+    tags: "touro boi pokemon ash",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif",
   },
@@ -1425,7 +1425,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Magikarp. Extremamente agressivo, capaz de devastar cidades.",
     link: "https://www.pokemon.com/br/pokedex/Gyarados",
-    tags: "serpente marinha pokemon",
+    tags: "serpente marinha pokemon lance elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif",
   },
@@ -1436,7 +1436,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Água/Gelo. Gentil e inteligente, usado para transporte marítimo, comunica-se com cantos melodiosos.",
     link: "https://www.pokemon.com/br/pokedex/Lapras",
-    tags: "serpente marinha pokemon",
+    tags: "serpente marinha pokemon ash lorelei elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif",
   },
@@ -1458,7 +1458,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Normal. Estrutura genética instável permite evoluir para várias formas diferentes.",
     link: "https://www.pokemon.com/br/pokedex/Eevee",
-    tags: "raposa pokemon",
+    tags: "raposa pokemon gary",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif",
   },
@@ -1557,7 +1557,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Pedra/Voador. Predador pré-histórico, revivido de âmbar, domina os céus com ferocidade.",
     link: "https://www.pokemon.com/br/pokedex/Aerodactyl",
-    tags: "pterodáctilo pokemon",
+    tags: "pterodáctilo pokemon gary lance elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif",
   },
@@ -1568,7 +1568,7 @@ let dadosPokemon = [
     descricao:
       "Um Pokémon do tipo Normal. Passa a maior parte do tempo dormindo e comendo; quando acordado, sua força é imensa.",
     link: "https://www.pokemon.com/br/pokedex/Snorlax",
-    tags: "dorminhoco pokemon",
+    tags: "dorminhoco pokemon ash",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif",
   },
@@ -1623,7 +1623,7 @@ let dadosPokemon = [
     descricao:
       "A evolução de Dratini. Corpo alongado emite aura misteriosa, podendo controlar o clima.",
     link: "https://www.pokemon.com/br/pokedex/Dragonair",
-    tags: "dragão serpente pseudo lendário pokemon",
+    tags: "dragão serpente pseudo lendário pokemon lance elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif",
   },
@@ -1634,7 +1634,7 @@ let dadosPokemon = [
     descricao:
       "A evolução final de Dratini. Apesar da aparência robusta, é gentil, ajudando marinheiros em perigo.",
     link: "https://www.pokemon.com/br/pokedex/Dragonite",
-    tags: "dragão pseudo lendário pokemon",
+    tags: "dragão pseudo lendário pokemon lance elite quatro",
     image:
       "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif",
   },
