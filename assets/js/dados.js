@@ -1925,7 +1925,8 @@ let dadosDigimon = [
       "Este Digimon sagrado com quatro asas douradas brilhantes é o líder de todos os Digimon pássaros e também se diz que governa todos os Digimon divinos. Magnadramon é a forma final dos Digimon bestiais, e Hououmon é a forma final dos Digimon pássaros. Dois anéis sagrados são a evidência de sua divindade e prova de que sua força é insondável. Seu movimento especial é Explosão da Luz das Estrelas, um flap de suas quatro asas douradas que despeja grãos dourados para purificar seu alvo.",
     link: "https://digitalmonster.fandom.com/pt/wiki/Hououmon",
     tags: "sora biyomon piyomon digiescolhido digimom",
-    image: "https://digimon.shadowsmith.com/img/hououmon.jpg",
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_fTPtivC8Dxb99YLVZ09SCNDNLAX4ayumMC7-MAi0Grkm-78Fwf3GyeEdDK3RvFLXLxRgspDOxhFWeaQ4tFRuC6LbS4zX54ycbNUAhyKMc2f7vxBGtZDTSV1pK2cAO_WA9d5viLHZWvE/s1600/Hououmon_b.jpg",
   },
   {
     id: "025",
@@ -2158,16 +2159,5 @@ let dadosDigimon = [
     link: "https://digitalmonster.fandom.com/pt/wiki/Angewomon",
     tags: "tailmon gatomon hikari digiescolhido digimom",
     image: "https://digimon.shadowsmith.com/img/angewomon.jpg",
-  },
-  {
-    id: "046",
-    nome: "Ophanimon",
-    nivel: "Mega",
-    atributo: "Vaccine",
-    descricao:
-      "Um Digimon anjo supremo, que é a forma final dos Digimon anjo femininos. É um dos Digimon celestiais que protegem o núcleo do Mundo Digital (o domínio de Deus), junto com Seraphimon e Kerpymon. É a figura materna do Mundo Digital e mostra o lado amoroso e benevolente de Deus, enquanto Seraphimon é o executor da lei divina e Kerpymon é o guardião de Deus e da sabedoria. Seu movimento especial é Javelina do Éden.",
-    link: "https://digitalmonster.fandom.com/pt/wiki/Ophanimon",
-    tags: "tailmon gatomon hikari digiescolhido digimom",
-    image: "https://digimon.shadowsmith.com/img/ophanimon.jpg",
   },
 ];
