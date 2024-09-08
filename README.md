@@ -1,5 +1,7 @@
 # Pokémon/Digimon Guru
 
+verifique aqui o prejeto: https://imersao-gemini-two.vercel.app/
+
 Bem-vindo ao Pokémon/Digimon Guru, um projeto desenvolvido durante a Imersão DEV da Alura com Gemini. O Pokémon/Digimon Guru é uma plataforma de para procurar pelos seus pokpemons ou digimons favoritos.
 
 ## 🛠 Tecnologias Utilizadas
